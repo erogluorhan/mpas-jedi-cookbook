@@ -28,6 +28,7 @@ project:
         - file: notebooks/mpas-basic.ipynb
         - file: notebooks/mpas-advanced.ipynb
     - title: JEDI Analysis and Visualization
+      children:
         - file: notebooks/jedi-model.ipynb
         - file: notebooks/jedi-observation.ipynb
   jupyter:
