@@ -29,8 +29,8 @@ project:
         - file: notebooks/mpas-advanced.ipynb
     - title: JEDI Analysis and Visualization
       children:
-        - file: notebooks/jedi-model.ipynb
-        - file: notebooks/jedi-observation.ipynb
+        - file: notebooks/jedi-mpas.ipynb
+        - file: notebooks/jedi-obsSpace.ipynb
   jupyter:
       binder:
         repo: projectpythia/mpas-jedi-cookbook
