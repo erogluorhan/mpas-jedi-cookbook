@@ -13,11 +13,11 @@ dependencies:
   - jupyterlab-myst
   - matplotlib
   - mystmd
+  - nbclean
   - netCDF4
   - plotly
   - s3fs
   - scipy
   - seaborn
-  - nbclean
   - uxarray
   - xarray
